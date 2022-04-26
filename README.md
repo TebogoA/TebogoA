@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TebogoA
+- 👋 Hi, I’m @TJ A
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning linux and python, how to build a flask api
 - 💞️ I’m looking to collaborate on entry level projects to build skills for data engineering
